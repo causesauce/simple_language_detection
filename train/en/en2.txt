@@ -1,0 +1,19 @@
+1-layer Neural Network
+
+Implement 1-layer neural network that can recognize the language of given text . Program should
+
+work on any number of languages(unknown).
+
+Program should count the proportion of each ascii letter in a text. Input vector has 26 elements.
+
+Neural network should have as many neurons as languages in a train set. It has to recognize the number of languages automatically.
+
+Use maximum selector to calculate the output. Try to normalize weight vector to improve classification.
+
+You should create training and test datasets by yourself. Create folders for train and test sets. In each create folderrs that represents languages (pl, en, de ...) . Each language folder should contain a few
+
+text files in particular language (i .e. articles from wikipedia) in different files in a folders
+
+representing languages . Program should provide the language for each file
+
+in a testset. Provide an interface to input a short text for language classification. impossible to achieve before the introduction of the type). Boolean values still behave as integers, can be stored in integer variables, and used anywhere integers would be valid, including in indexing, arithmetic, parsing, and formatting. This approach (Boolean values are just integers) has been retained in all later versions of C. Note, that this does not mean that any integer value can be stored in a boolean variable.Next Genis needed (for example in if statement), Bool method is called. Bool method for built-in types is defined such that it returns false for a numeric value of zero, the null value, the empty string, empty containers Next Generation Shell, has Bool type. It has two possible values: true and false. Bool is not interchlue of an expression is needed (for example in if statement), Bool method is called. Bool method for built-in types is defined such that it returns false for a numeric value of zero, the null value, the empty string, empty containers

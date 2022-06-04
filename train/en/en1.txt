@@ -1,0 +1,35 @@
+1-layer Neural Network
+
+Implement 1-layer neural network that can recognize the language of given text . Program should
+
+work on any number of languages(unknown).
+
+Program should count the proportion of each ascii letter in a text. Input vector has 26 elements.
+
+Neural network should have as many neurons as languages in a train set. It has to recognize the number of languages automatically.
+
+Use maximum selector to calculate the output. Try to normalize weight vector to improve classification.
+
+You should create training and test datasets by yourself. Create folders for train and test sets. In each create folderrs that represents languages (pl, en, de ...) . Each language folder should contain a few
+
+text files in particular language (i .e. articles from wikipedia) in different files in a folders
+
+representing languages . Program should provide the language for each file
+
+in a testset. Provide an interface to input a short text for language classification. The couple were tied up with electrical cords, physically assaulted and robbed of their jewellery.
+
+Bernard Tapie, 78, who is a former French finance minister, is a flamboyant and controversial figure.
+
+He has been at the centre of legal battles concerning corruption and fraud for decades, and spent time in jail.
+
+Mr Tapie and his wife, Dominique, 70, were sleeping when four men slipped passed security guards and broke into their home around 00:30 on Sunday (22:30 GMT Saturday).
+
+The intruders pulled Mrs Tapie by the hair "because they wanted to know where the treasure was", the mayor of Combs-La-Ville, Guy Geoffroy, told AFP.
+
+"But of course there was no treasure, and the fact that they didn't find it made the violence only worse."
+
+Mr Tapie was hit over the head with a club while sitting in a chair.
+
+Managing to free herself, Dominique Tapie ran to a neighbour's home and called the police. She suffered facial injuries after being hit several times, and was taken to hospital.
+
+

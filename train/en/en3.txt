@@ -1,0 +1,17 @@
+Last month, Marwa Elselehdar noticed something strange.
+
+News had broken about a huge container ship, the Ever Given, that had become wedged across the Suez Canal, bringing one of world's major shipping routes to a halt.
+
+But as she checked her phone, online rumours were saying she was to blame.
+
+"I was shocked," says Marwa, Egypt's first female ship's captain.
+
+At the time of the Suez blockage, Ms Elselehdar was working as a first mate, in command of the Aida IV, hundreds of miles away in Alexandria.
+
+The vessel, owned by Egypt's maritime safety authority, runs supply missions to a lighthouse in the Red Sea. It's also used to train cadets from the Arab Academy for Science, Technology and Maritime Transport (AASTMT), a regional university run by the Arab League.   The compiler and runtime are now implemented in Go and assembler, without C. Now that the Go compiler and runtime are implemented in Go, a Go compiler must be available to compile the distribution from source. The compiler is now self-hosted.
+The garbage collector has been re-engineered for 1.5. The "stop the world" phase of the collector will almost always be under 10 milliseconds and usually much less.
+In Go 1.5, the order in which goroutines are scheduled has been changed.Go 1.11 adds an experimental port to WebAssembly.
+Go 1.11 adds preliminary support for a new concept called “modules”, an alternative to GOPATH with integrated support for versioning and package distribution.
+The assembler for amd64 now accepts AVX512 instructions.
+Go 1.11 drops support of Windows XP and Windows Vista.[39]
+Go 1.11.3 and later fix the TLS authentication vulnerability in the crypto/x509 package.[40] a method indicates an error to its caller in Go.[c] Go adds literal syntaxes for initializing struct parameters by name and for initializing maps and slices. As an alternative to C's three-statement for loop, Go's range expressions allow concise iteration over arrays, slices, strings, maps, and channels.[50]
